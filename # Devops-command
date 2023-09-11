@@ -1,0 +1,29 @@
+DevOps tools and technologies:
+Devopas-cls-command All Devops-cls-Cammand notes Available in this file. (1. LINUX 2. GIT 3. MAVEN 4. jenkins 5. ANSIBLE 6. DOCKER 7. K8S 8. TERRAFORM 9.NAGIOS)
+
+1. **Linux:**
+   Linux is an open-source operating system known for its stability and security. It's widely used in DevOps for hosting servers, running containers, and managing infrastructure.
+
+2. **Git:**
+   Git is a distributed version control system used for tracking changes in source code. It's essential for collaborative software development and managing source code changes.
+
+3. **Maven:**
+   Apache Maven is a build automation and project management tool used primarily for Java projects. It helps automate the build process, manage dependencies, and create project reports.
+
+4. **Jenkins:**
+   Jenkins is an open-source automation server used for continuous integration and continuous delivery (CI/CD). It automates the building, testing, and deployment of software.
+
+5. **Ansible:**
+   Ansible is an open-source automation tool used for configuration management, application deployment, and task automation. It uses YAML files for defining automation tasks.
+
+6. **Docker:**
+   Docker is a containerization platform used to package applications and their dependencies into containers. Containers ensure consistent and reproducible deployments.
+
+7. **Kubernetes (K8s):**
+   Kubernetes is an open-source container orchestration platform. It automates the deployment, scaling, and management of containerized applications.
+
+8. **Terraform:**
+   Terraform is an infrastructure-as-code (IaC) tool used to define and provision infrastructure in a declarative manner. It supports multiple cloud providers and services.
+
+9. **Nagios:**
+   Nagios is an open-source monitoring and alerting system used to monitor the health and performance of IT infrastructure components. It provides real-time visibility into system status.
