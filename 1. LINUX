@@ -122,12 +122,11 @@ i: used to modify/insert content
 esc: to get out from insert mode
 
 3. SAVE MODE:
-
 :w	: to save 
 :q	: to quit 
 :wq	: to save & quit
 !	: forcefully
-
+esc.
 2. INSERT MODE:
 
 A	: End of line
